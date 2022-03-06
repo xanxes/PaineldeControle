@@ -10,7 +10,7 @@ display: flex;
 flex-direction: column;}
 
 header
-{background-color: gray;
+{background-color: rgba(184, 179, 179, 0.795);
 height: 10vh;
 display: flex;
 justify-content: center;
@@ -18,16 +18,26 @@ align-items: center;}
 
 main
 {flex-grow: 1;
-padding: 8px;}
+padding: 10px;}
 
 .item-container
 {display: flex;
+align-items: center;
+display: inline-flex;
 width: 250px;
 height: 50px;
-align-items: center;
-gap: 8px;
 text-decoration: none;
-padding: 4px;}
+color: black;
+padding: 10px;}
 
 .item-container:hover
 {box-shadow: 0px 0px 5px gray;}
+
+footer
+{align-items: center;
+justify-content: center;
+display: flex;}
+
+.icon-git
+{width: 3em;
+padding: 10px;}
