@@ -5,8 +5,10 @@ Foi o primeiro projeto que usei mais de uma página, além do **Index.html**, cr
 ## CSS
 Em CSS usei pela primeira vez:
 
-- display: inline-flex
-### Faz com que o contêiner flex seja exibido inline
+### display: inline-flex
+- Faz com que o contêiner flex seja exibido inline
 
-- Conteiner:hover | box-shadow:
-### Cria uma marcação de sombra quando o mouse seleciona.
+### Conteiner:hover | box-shadow:
+- Cria uma marcação de sombra quando o mouse seleciona.
+
+- O **border-radius** deixa a borda levemente arredondada.
