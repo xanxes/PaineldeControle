@@ -5,8 +5,20 @@ Foi o primeiro projeto que usei mais de uma página, além do **Index.html**, cr
 ## CSS
 Em CSS usei pela primeira vez:
 
-- display: inline-flex
-### Faz com que o contêiner flex seja exibido inline
+### Faz com que o contêiner flex seja exibido inline display: inline-flex.
+- Faz com que o contêiner flex seja exibido inline.
 
-- Conteiner:hover | box-shadow:
-### Cria uma marcação de sombra quando o mouse seleciona.
+### Conteiner:hover | box-shadow:
+- Cria uma marcação de sombra quando o mouse passa por cima.
+
+### Card no CSS
+Criei um card em cada página para exibir dados informativos.
+
+### border-radius
+- Adiciona cantos arredondados aos elementos.
+
+### box-shadow
+- Utilizado para adicionar efeitos de sombra em volta de um elemento.
+
+### Transitions
+**Ease out:** especifica um efeito de transição com um final lento.
